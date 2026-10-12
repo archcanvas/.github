@@ -19,11 +19,11 @@ Describe your home in plain English. Get a dimensioned floor plan back, and refi
 
 <br>
 
-<!-- FILM PLACEHOLDER
-     Chan: edit this file on github.com, delete this whole comment, and drag the
-     ArchCanvas studio film (30 s, 16:9 .mp4) into the editor at this spot. GitHub
-     turns the upload into a player. Leave one blank line above and below it.
--->
+
+
+https://github.com/user-attachments/assets/b248b6d3-e4ce-440e-8d53-39962e7f5891
+
+
 
 ## Try it
 
